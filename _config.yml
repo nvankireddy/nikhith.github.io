@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sateesh Peri"
+title                    : "Nikhith Vankireddy"
 title_separator          : "-"
-name                     : &name "Sateesh Peri"
-description              : &description "Graduate Student at University of Arizona"
-url                      : https://sateeshperi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nikhith Vankireddy"
+description              : &description "Undergraduate Student at University of Arizona"
+url                      : https://nikhith.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sateeshperi.github.io"
+repository               : "nikhith.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sateesh Peri"
-  avatar           : "peri_profile.jpg"
-  bio              : "Graduate Student | Data Carpentry Instructor"
+  name             : "Nikhith Vankireddy"
+  avatar           : 
+  bio              : "Undergraduate Student | Engineering Management"
   location         : "Tucson, Arizona"
   employer         :
   googlescholar    :
-  email            : "sateeshp@email.arizona.edu"
+  email            : "nvankireddy@email.arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sateeshperi"
+  github           : "nvankireddy"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "perisateesh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
